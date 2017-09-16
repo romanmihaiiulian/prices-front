@@ -1,0 +1,6 @@
+{
+  "name": "prices",
+  "short_name": "prices",
+  "start_url": "/",
+  "display": "standalone"
+}
